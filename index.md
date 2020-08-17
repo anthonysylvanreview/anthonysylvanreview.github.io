@@ -4,7 +4,7 @@ layout: default
 
 # Background 
 
-We spent $140,000 to get a pool built by Anthony Sylvan. It has taken 11 months, and there are still unresolved issues. They sent an email asking for a review, so I figured I'd write a public review going through the build from start to finish.
+We spent $147,000 to get a pool built by Anthony Sylvan. It has taken 11 months, and there are still unresolved issues. They sent an email asking for a review, so I figured I'd write a public review going through the build from start to finish.
 
 Overall I would give them 2/5. The end result is pretty good, but the process was a nightmare, the company is disorganized and cares much more about saving money than delivering a quality result. If you're going to build a pool, my recommendation would be that you find a local pool builder with good reviews and use them instead.
 
