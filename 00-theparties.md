@@ -20,3 +20,4 @@ To preserve anonymity of employees and subcontractors, I'm referring to people i
 * Electricians
 * Tile & Coping
 * Patio / Deck
+* Fencing 
