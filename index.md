@@ -14,11 +14,11 @@ TODO gallery here
 
 # Project Overview
 
-[Site Plans And Budget](./00-site-plans-budget.html) - Details for reference
+[Site Plans, Renders, And Budget](./00-site-plans-budget.html) - Details for reference
  
-[Overall Timeline](./01-timeline.html) - Full timeline of project
+[Overall Timeline](./01-timeline.html) - Detailed, (almost) full timeline of project
 
-[The Sale - Promises / False Claims](./02-thesale.html) - What was promised
+[The Sale - Promises, Promises](./02-thesale.html) - What was promised
 
 # Build Start
 
@@ -29,6 +29,8 @@ TODO gallery here
 [Issue 1 - Tile Not Matching Sample](./04-tile.html) 
 
 [Issue 2 - Retaining Wall Subsidence](./05-subsidence.html) 
+
+[Issue 3 - Dive Rock](./06-diverock.html)
 
 [Issue 3 - Stairs Not Priced In](./06-stairs.html) 
 

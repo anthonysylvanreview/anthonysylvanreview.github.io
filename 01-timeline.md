@@ -4,7 +4,7 @@ layout: page
 
 # Timeline
 
-The following is a start to finish timeline of the project. Some of the dates are approximate, as the dates are reconstructed from email. I've linked to appropriate issues from the timeline below.
+The following is a start to finish timeline of the project. Some of the dates are approximate, as the dates are reconstructed from email. I've linked to appropriate issues from the timeline below (TODO). 
 
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Notes | 
@@ -72,6 +72,7 @@ The following is a start to finish timeline of the project. Some of the dates ar
 | Jul 2 | I email Construction Manager expressing concern at plaster blotchiness / dirt / seepage. Also request he do site visit. | 
 | Jul 2 | Pool Startup Guy on site, starts up pool, does "Pool School". |
 | Jul 2 | Pool Cover Guy on site, measures for cover. |
+| Jul 3 | *First Swim*! | 
 | Jul 6 | Patio Construction Chief, Crew, and Construction Manager come on-site. Agree to subsidence and path edge remediation. Crew does remediation. Constructio Manager promises "free pool closing" at end of season as compensation. | 
 | Jul 9 | Plaster Crew comes on site, inspects, do some work and leave without telling me what they did. Ph is below 6 when I test so I assume it's an acid bath. I email Construction Manager asking him to find out what they did. | 
 | Jul 10 | Construction Manager replies saying Plaster Crew did only "spot treatments", and I can restore pool chemistry with baking soda. | 
