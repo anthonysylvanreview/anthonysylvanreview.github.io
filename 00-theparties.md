@@ -11,3 +11,12 @@ To preserve anonymity of employees and subcontractors, I'm referring to people i
 * Patio Subcontractor Chief - frequently onsite because of his crew's mistakes. Upcharged for stairs/drain.
 * Patio Crew - made many mistakes. 
 
+# The Subcontractors
+
+* Excavation
+* Retaining Wall
+* Plumbing
+* Gunnite
+* Electricians
+* Tile & Coping
+* Patio / Deck
