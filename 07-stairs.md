@@ -15,7 +15,7 @@ When I finally did get Sales Guy on the phone, he spent 45 minutes blaming the r
 I ended up paying to move the project forward, as it was held up at this point.
 
 <a data-fancybox="stairs" href="images/00-render5.jpg"><img src="images/small/00-render5.jpg"></a>
-<a data-fancybox="stairs" href="images/00-plan3.jpg"><img src="images/small/00-plan3.jpg"></a>
+<a data-fancybox="stairs" href="images/00-plan3.png"><img src="images/small/00-plan3.png"></a>
 <a data-fancybox="stairs" href="images/03-excavation2c.jpg"><img src="images/small/03-excavation2c.jpg"></a>
 <a data-fancybox="stairs" href="images/07-stairs1.jpg"><img src="images/small/07-stairs1.jpg"></a>
 
