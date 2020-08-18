@@ -4,7 +4,7 @@ layout: page
 
 # Issue - Stairs Weren't Priced In
 
-I rated this "high", because it cost me around $4k in upcharge to resolve (along with a drain that also wasn't priced in). 
+I rated this "high" in severity, because it cost me around $4k in upcharge to resolve (along with a drain that also wasn't priced in), and held the project up for over a week while I was trying to get clarification on it. 
 
 In the lead-up to the deck paving beginning, it became apparent that nobody either had built the main steps from the driveway to the patio, or was planning to. I raised this to Project Manager, who - true to form - had nothing to offer on the subject. I then talked to Patio Subcontractor Chief when he was doing his initial on-site, and he said that it wasn't in his scope of work, and that it'd cost extra. 
 
