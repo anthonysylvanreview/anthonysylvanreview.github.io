@@ -6,7 +6,7 @@ layout: page
 
 This is another relatively minor issue.
 
-During [the sale](./02-thesale.html), the Sales Guy and I had talked specifically about large rocks being used as part of the patio (japanese landscaping style), since we live on a granite mountain; we also talked about a large rock being used for the diving rock at the deep end of the pool. (By the time of the design meeting, the rocks had vanished from the design, except for the diving rock, which remained reasonably large in the render and [plans](./00-siteplans-budget.html).)
+During [the sale](./02-thesale.html), the Sales Guy and I had talked specifically about large rocks being used as part of the patio (japanese landscaping style), since we live on a granite mountain; we also talked about a large rock being used for the diving rock at the deep end of the pool. (By the time of the design meeting, the rocks had vanished from the design, except for the diving rock, which remained reasonably large in the render and [plans](./00-site-plans.html).)
 
 During the construction break over the winter, I emailed the Project Manager a few times, trying to pin him down on specifics for how the large rock would be maneuvered into place, since we'd never talked about it specifically. He never engaged.
 

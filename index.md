@@ -14,9 +14,13 @@ TODO gallery here
 
 # Project Overview
 
-[Site Plans, Renders, And Budget](./00-site-plans-budget.html) - Details for reference
+[Site Plans and Renders](./00-site-plans.html) - Details for reference
+
+[Budget and Spend](./00-budget.html) - Break down of the budget
+
+[The Cast & Crews](./00-theparties.html) - Summary of people involved
  
-[Overall Timeline](./01-timeline.html) - Detailed, (almost) full timeline of project
+[Overall Timeline](./01-timeline.html) - Detailed, (almost) exhaustive timeline of project
 
 [The Sale - Promises, Promises](./02-thesale.html) - What was promised
 
@@ -26,13 +30,14 @@ TODO gallery here
 
 # Issue List
 
-[Issue 1 - Tile Not Matching Sample](./04-tile.html) 
+Click on each issue for photos and a short explanation.
 
-[Issue 2 - Retaining Wall Subsidence](./05-subsidence.html) 
-
-[Issue 3 - Dive Rock](./06-diverock.html)
-
-[Issue 3 - Stairs Not Priced In](./06-stairs.html) 
+| Issue | Severity (high / medium / low) | Resolved | 
+|---|---|
+| [Tile Not Matching Sample](./04-tile.html) | low | no |
+| [Retaining Wall Subsidence](./05-subsidence.html) | medium | yes | 
+| [Dive Rock Compromise](./06-diverock.html) | low | no |
+| [Stairs Not Priced In](./07-stairs.html) | high | "yes" | 
 
 [Issue 4 - Dimensions of Deck Wrong](./07-dimensions.html) 
 
@@ -74,5 +79,7 @@ TODO gallery here
 
 [Issue 23 - Pool Light Seal Leak](./26-pool-light-seal.html)
 
-[Issue 24 - Project Management](./27-project-management.html)
+# Summary
+
+[Project Management And Lack of Quality](./27-project-management.html)
 
