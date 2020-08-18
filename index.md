@@ -38,8 +38,7 @@ Click on each issue for photos and a short explanation.
 | [Retaining Wall Subsidence](./05-subsidence.html) | medium | yes | 
 | [Dive Rock Compromise](./06-diverock.html) | low | no |
 | [Stairs Not Priced In](./07-stairs.html) | high | "yes" | 
-
-[Issue 4 - Dimensions of Deck Wrong](./07-dimensions.html) 
+| [Dimensions of Deck Wrong](./08-dimensions.html) | medium | n/a |
 
 [Issue 5 - Stair Widths](./08-stair-widths.html) 
 

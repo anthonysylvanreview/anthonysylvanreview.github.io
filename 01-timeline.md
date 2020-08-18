@@ -55,7 +55,7 @@ The following is a start to finish timeline of the project. Some of the dates ar
 | May 22 | I email Sales Guy and Project Manager again with summary, asking for response. Sales Guy replies saying he will talk to Patio Subcontractor Chief and that we should talk May 26. I confirm, asking him to propose a time. | 
 | May 26 | I call Sales Guy, get voicemail, then I email asking what time he'd like to talk. |
 | May 28 | Patio Subcontractor Admin calls, asking whether I will pay upcharge. |
-| May 28 | I call Sales Guy, finally get him. He spends 45 minutes blaming Retaining Wall Subcontractor, and accepts no responsibility, and will pick up none of the upcharge. | 
+| May 28 | I call Sales Guy, finally get him. He spends 45 minutes blaming Retaining Wall Subcontractor, and accepts no responsibility, and will pick up none of the upcharge. Further, he hasn't read my email about the dimensions while sitting in front of the plan, and so doesn't know what the issue is. Promises to do so that evening. | 
 | May 29 | I talk to Patio Subcontractor Admin, pay upcharge. |
 | Jun 12 | Patio work begins. |
 | Jun 15 | Because of the dimensions issue observed/reported May 18, deck crew goes off-script and builds awkward deck transition, stairs at varying widths. I email Sales Guy and Project Manager photos in early evening, after doing a site walk through. |
