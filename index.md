@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Background 
+# Buying a Pool From Anthony & Sylvan 
 
-We spent $147,000 to get a pool built by Anthony Sylvan. It has taken 11 months, and there are still unresolved issues. They sent an email asking for a review, so I figured I'd write a public review going through the build from start to finish.
+We spent $147,000 to get a pool built by Anthony & Sylvan. It has taken 11 months, and there are still unresolved issues. They sent an email asking for a review, so I figured I'd write a public review going through the build from start to finish.
 
 Overall I would give them 2/5. The end result is pretty good, but the process was a nightmare, the company is disorganized and cares much more about saving money than delivering a quality result. If you're going to build a pool, my recommendation would be that you find a local pool builder with good reviews and use them instead.
 
@@ -39,16 +39,11 @@ Click on each issue for photos and a short explanation.
 | [Dive Rock Compromise](./06-diverock.html) | low | no |
 | [Stairs Not Priced In](./07-stairs.html) | high | "yes" | 
 | [Dimensions of Deck Wrong](./08-dimensions.html) | medium | n/a |
-
-[Issue 5 - Stair Widths](./08-stair-widths.html) 
-
-[Issue 6 - Wobbly Path Edging](./09-path-edging.html) 
-
-[Issue 7 - Poor Levels / Deck Compacting](./10-deck-compacting.html) 
-
-[Issue 8 - Silt Washing Down Below-Grade Stairs](./11-below-grade-stairs.html) 
-
-[Issue 9 - Path Edge Failure](./12-path-edge-failure.html) 
+| [Stair Widths](./09-stairwidths.html) | high | yes |
+| [Wobbly Path Edging](./10-pathedging.html) | low | yes |
+| [Poor Levels / Deck Compacting](./11-deckcompacting.html) | low | yes | 
+| [Silt Washing Down Below-Grade Stairs](./12-belowgradestairs.html) | high | yes | 
+| [Path Edge Failure](./13-pathedgefailure.html) | high | yes | 
 
 [Issue 10 - Grading Issues](./13-buried-drains.html) 
 
