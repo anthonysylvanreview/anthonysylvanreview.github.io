@@ -10,7 +10,10 @@ Overall I would give them 2/5. The end result is pretty good, but the process wa
 
 Details of the project are below, including a photo gallery of each issue encountered. Here's a quick teaser of some of the issues you'll read about below:
 
-TODO gallery here
+<a data-fancybox="highlights" href="images/14-grading5.jpg"><img src="images/small/14-grading5.jpg"></a>
+<a data-fancybox="highlights" href="images/09-stairs5.jpg"><img src="images/small/09-stairs5.jpg"></a>
+<a data-fancybox="highlights" href="images/13-pathedge9.jpg"><img src="images/small/13-pathedge9.jpg"></a>
+
 
 # Project Overview
 
@@ -44,14 +47,9 @@ Click on each issue for photos and a short explanation.
 | [Poor Levels / Deck Compacting](./11-deckcompacting.html) | low | yes | 
 | [Silt Washing Down Below-Grade Stairs](./12-belowgradestairs.html) | high | yes | 
 | [Path Edge Failure](./13-pathedgefailure.html) | high | yes | 
-
-[Issue 10 - Grading Issues](./13-buried-drains.html) 
-
-[Issue 11 - Path Subsidence](./14-path-subsidence.html) 
-
-[Issue 12 - Diving Rock Compromise](./15-diving-rock-compromise.html) 
-
-[Issue 13 - Plaster Problems - Blotchiness, Dirt Showing Throw, Calcium Seepage](./16-blotchy-plaster.html) 
+| [Grading Issues](./14-grading.html) | high | yes | 
+| [Path Subsidence](./15-path-subsidence.html) | low | yes |  
+| [Plaster Problems](./16-plaster.html) | high | no | 
 
 [Issue 14 - Messy Subcontractors](./17-messy-subcontractors.html) 
 
