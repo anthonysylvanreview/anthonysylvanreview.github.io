@@ -4,7 +4,7 @@ layout: page
 
 # Summary
 
-Anthony & Sylvan may have been a great company at one point, but based upon our experience having a pool built by them, my opinion is that they've prioritized product over quality.
+Anthony & Sylvan may have been a great company at one point, but based upon our experience having a pool built by them, my opinion is that they've prioritized profit over quality.
 
 ## Project Management
 
