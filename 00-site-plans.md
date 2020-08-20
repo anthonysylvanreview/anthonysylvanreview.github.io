@@ -11,7 +11,7 @@ layout: page
 <a data-fancybox="plans" href="images/00-plan2.png"><img src="images/small/00-plan2.png"></a>
 <a data-fancybox="plans" href="images/00-plan3.png"><img src="images/small/00-plan3.png"></a>
 
-The first two shown here are actual construction plans. The third is what was used during the sale process; the fire pit and pergola were not priced into the initial build.
+The first two shown here are actual construction plans. The third is what was used during the sale process; the fire pit and pergola were not priced into the build (and haven't been built yet).
 
 ## Project Renders
 

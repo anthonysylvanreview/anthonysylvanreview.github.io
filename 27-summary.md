@@ -16,7 +16,7 @@ The project manager should be empowered to be the customer's biggest advocate. T
 
 ## Quality
 
-There were many many mistakes over the course of the project. The subcontracting crews were on their own, with no quality control on site. Many were skilled tradesmen, but because of lack of on site oversight, made and left mistakes in place. 
+There were many many mistakes over the course of the project. The subcontracting crews were on their own, with no quality control on site. Many were skilled tradesmen, but because of lack of on site oversight, they made and left mistakes in place. 
 
 The inefficiency of ordering two [batches of stone](./19-stonework.html), and having two masons, deserves repeat mention here. Anthony & Sylvan is so focused on verticalized subcontractors that they fail to see the cross-cutting aspects of the job. Different subcontracting crews were never onsite at the same time, and were never working together. There was potential for that to happen at multiple phases in the project. It would have improved things.  
 
