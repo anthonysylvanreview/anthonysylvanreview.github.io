@@ -4,9 +4,9 @@ layout: default
 
 # Buying a Pool From Anthony & Sylvan 
 
-We spent $147,000 to get a pool built by Anthony & Sylvan. It has taken 11 months, and there are still unresolved issues. They sent an email asking for a review, so I figured I'd write a public review going through the build from start to finish.
+We spent $147,000 to get a pool built by Anthony & Sylvan. It has taken 11 months, and there are still unresolved issues. They sent an email asking for a review, so I figured I'd organize my photos in a website with some narrative to explain the issues we encountered along the way.
 
-Overall I would give them 2/5. The end result is pretty good, but the process was a nightmare, the company is disorganized and cares much more about saving money than delivering a quality result. If you're going to build a pool, my recommendation would be that you find a local pool builder with good reviews and use them instead.
+Overall I would give them 2/5. The end result is pretty good, but the process was a nightmare - we had a lot of quality issues, and had to do a lot of legwork to get most of the issues resolved. If you're going to build a pool, my recommendation would be that you find a local pool builder with good reviews and use them instead. 
 
 Details of the project are below, including a photo gallery of each issue encountered. Here's a quick teaser of some of the issues you'll read about below:
 
@@ -50,28 +50,18 @@ Click on each issue for photos and a short explanation.
 | [Grading Issues](./14-grading.html) | high | yes | 
 | [Path Subsidence](./15-path-subsidence.html) | low | yes |  
 | [Plaster Problems](./16-plaster.html) | high | no | 
-
-[Issue 14 - Messy Subcontractors](./17-messy-subcontractors.html) 
-
-[Issue 15 - Badly Measured Steps](./18-badly-measured-steps.html) 
-
-[Issue 16 - Poor Stonework on Step Fronts](./19-poor-stonework.html) 
-
-[Issue 17 - Bad Paver Levelling](./20-bad-paver-levelling.html) 
-
-[Issue 18 - Steps Mortared Directly to Pool Walls](./21-steps-to-pool-walls.html)
-
-[Issue 19 - Coping Not Watertight](./22-coping-not-watertight.html)
- 
-[Issue 20 - Polaris Plumbing](./23-polaris-plumbing.html)
-
-[Issue 21 - Waterfall Plumbing](./24-waterfall-plumbing.html)
-
-[Issue 22 - Cheap / Noisy Pump Used](./25-cheap-pump.html)
-
-[Issue 23 - Pool Light Seal Leak](./26-pool-light-seal.html)
+| [Messy Subcontractors](./17-subcontractors.html) | low | yes | 
+| [Off Square Steps](./18-squintsteps.html) | low | yes |
+| [Stonework by Two Subcontractors](./19-stonework.html) | low | no |
+| [Paver Levelling](./20-levelling.html) | low | yes | 
+| [No Expansion Foam Used On Steps](./21-expansionfoam.html) | medium | yes | 
+| [Coping Not Watertight](./22-coping.html) | low | "no" |
+| [Polaris Plumbing](./23-polaris-plumbing.html) | low | yes | 
+| [Waterfall Plumbing](./24-waterfall-plumbing.html) | low | yes | 
+| [Cheap / Noisy Pump Used](./25-cheap-pump.html) | medium | no |
+| [Pool Light Seal Leak](./26-pool-light.html) | low | no |
 
 # Summary
 
-[Project Management And Lack of Quality](./27-project-management.html)
+[Project Management, Quality](./27-summary.html)
 

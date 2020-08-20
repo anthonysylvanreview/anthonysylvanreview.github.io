@@ -24,7 +24,7 @@ Secondly, the pool was left for 18 hours without water in it (barely filling up 
 
 The above issues were largely rectified by an acid bath, which you can read about [in the timeline](./01-timeline.html)(from Jul 9th onwards). There's still some substandard areas of plaster in the main area of the pool, but it's much better than it was.
 
-The third issue had to do with lack of pre-treatment of the abysmal looking deep end wall, both stained by clay silt and pockmarked with calcium seepage holes. Flip back and forth between these images. I've highlighted the main areas with issues in the last image. These were not fixed by the acid bath and still need to be rectified.
+The third issue had to do with lack of pre-treatment of the abysmal looking deep end wall, both stained by clay silt and pockmarked with calcium seepage holes. Flip back and forth between these images. I've highlighted the main areas with issues in the last image (the calcium holes are large enough that you can put your finger in them; the stained plaster is visible when looking at it through the water.) These were not fixed by the acid bath and still need to be rectified.
 
 <a data-fancybox="plaster2" href="images/14-grading5.jpg"><img src="images/small/14-grading5.jpg"></a>
 <a data-fancybox="plaster2" href="images/16-plaster6.jpg"><img src="images/small/16-plaster6.jpg"></a>
