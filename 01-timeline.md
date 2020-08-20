@@ -4,7 +4,7 @@ layout: page
 
 # Timeline
 
-The following is a start to finish timeline of the project. Some of the dates are approximate, as the dates are reconstructed from email. I've linked to appropriate issues from the timeline below (TODO). 
+The following is a start to finish timeline of the project. Some of the dates are approximate, as the dates are reconstructed from email. 
 
 
 | Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Notes | 
