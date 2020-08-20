@@ -8,6 +8,6 @@ Anthony & Sylvan apparently prefer to install cheap, fixed speed pumps. Our pump
 
 Comment from an online forum about this: "Brand new install and you didn't get VS? You got hosed, bro."
 
-A good variable speed pump for this pool size is apparently the IntelliFlo 3HP ($999).
+A good variable speed pump for this pool size is apparently the IntelliFlo 3HP ($999 retail).
 
 Anthony & Sylvan chose to save $600 on a luxury pool build, disregarding the lifetime aesthetics of using the pool.
