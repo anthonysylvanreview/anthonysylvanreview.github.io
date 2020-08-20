@@ -96,4 +96,4 @@ The following is a start to finish timeline of the project. Some of the dates ar
 | Aug 11 | I email Construction Manager asking him to find out Patio Crew schedule. |
 | Aug 16 | I email Construction Manager asking him to find out Patio Crew Schedule. |
 | Aug 17 | Patio Construction Chief calls and says crew will be onsite Aug 18. |      
-
+| Aug 18 | Patio crew comes out, rebuilds stairs, installs expansion foam where it was missing, adds stair on driveway stairs. |
