@@ -55,7 +55,6 @@ Click on each issue for photos and a short explanation.
 | [Stonework by Two Subcontractors](./19-stonework.html) | low | no |
 | [Paver Levelling](./20-levelling.html) | low | yes | 
 | [No Expansion Foam Used On Steps](./21-expansionfoam.html) | medium | yes | 
-| [Coping Not Watertight](./22-coping.html) | low | "no" |
 | [Polaris Plumbing](./23-polaris-plumbing.html) | low | yes | 
 | [Waterfall Plumbing](./24-waterfall-plumbing.html) | low | yes | 
 | [Cheap / Noisy Pump Used](./25-cheap-pump.html) | medium | no |
