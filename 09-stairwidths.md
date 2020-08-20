@@ -16,7 +16,7 @@ One thing to understand is that there are (generally) no decision makers on-site
 <a data-fancybox="stairs" href="images/09-stairs5.jpg"><img src="images/small/09-stairs5.jpg"></a>
 <a data-fancybox="stairs" href="images/09-stairs6.jpg"><img src="images/small/09-stairs6.jpg"></a>
 
-The last two images are identical; I've marked up the last ones with annotations to walk through what was going on here. Flip back and forth between them. 
+The last two images are identical; I've marked up the last one with annotations to walk through what was going on here. Flip back and forth between them. Numbers in the image correspond with explanations below: 
 
 1) The retaining walls around the stairs from the driveway were built at a 6' width; they should have been around 5'.
 
