@@ -59,7 +59,7 @@ Click on each issue for photos and a short explanation.
 | [Polaris Plumbing](./23-polaris-plumbing.html) | low | yes | 
 | [Waterfall Plumbing](./24-waterfall-plumbing.html) | low | yes | 
 | [Cheap / Noisy Pump Used](./25-cheap-pump.html) | medium | no |
-| [Pool Light Seal Leak](./26-pool-light.html) | low | no |
+| [Pool Light Seal Leak](./26-pool-light.html) | low | yes |
 
 # Summary
 
