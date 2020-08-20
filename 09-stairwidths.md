@@ -20,7 +20,7 @@ The last two images are identical; I've marked up the last one with annotations 
 
 1) The retaining walls around the stairs from the driveway were built at a 6' width; they should have been around 5'.
 
-2) The patio deck had been framed with 3-4' of extra width, some of which was on the shallow end of the pool. The path was [supposed to](00-site-plans.html), but there was just over 6' of space for the path if it was to line up with the driveway stairs at the north/left of these images. So the first mistake here was that the crew tried to build a little "cliff" wall to the left of the stairs here to fill in that space. Not entirely clear what it would have descended onto...flower beds? Graded slope?
+2) The patio deck had been framed with 3-4' of extra width, some of which was on the shallow end of the pool. The path was [supposed to](00-site-plans.html) to be 5' wide, but there was just over 6' of space for the path if it was to line up with the driveway stairs at the north/left of these images. So the first mistake here was that the crew tried to build a little "cliff" wall to the left of the stairs here to fill in that space. Not entirely clear what it would have descended onto...flower beds? Graded slope?
 
 3,4) The next problem is that the two sets of steps (3 vs 4) were different widths - 4' off. This came from a measuring mistake that the original step builders made (the corner of the pool wall was a little wider than the regular coping section, and that's where they measured from.) You can see the path going back from #4 would have ended up in a weird place.
 
