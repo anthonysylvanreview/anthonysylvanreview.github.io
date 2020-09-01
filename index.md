@@ -48,7 +48,7 @@ Click on each issue for photos and a short explanation.
 | [Silt Washing Down Below-Grade Stairs](./12-belowgradestairs.html) | high | yes | 
 | [Path Edge Failure](./13-pathedgefailure.html) | high | yes | 
 | [Grading Issues](./14-grading.html) | high | yes | 
-| [Path Subsidence](./15-path-subsidence.html) | low | yes |  
+| [Path Subsidence](./15-subsidence.html) | low | yes |  
 | [Plaster Problems](./16-plaster.html) | high | no | 
 | [Messy Subcontractors](./17-subcontractors.html) | low | yes | 
 | [Off Square Steps](./18-squintsteps.html) | low | yes |
