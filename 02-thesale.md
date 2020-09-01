@@ -14,7 +14,7 @@ In the first meeting (Aug 13), he:
 
 * agreed to work with our top budget of $125k ("no problem")
 * said that while they do use subcontractors for the actual work (an area of concern for me) that their project management would be managing all the details of the build, and would be on site with subcontractors
-* agreed that the dive rock would be one of the large rocks we looked at
+* agreed that the dive rock would be one of the large rocks we looked at on site (we live on a mountain; we have plenty of large rocks)
 * said that the build would be completed by end of April
 
 None of these things ended up being true. Surely he had to know that at least the project management statement was incorrect; I suspect he also knew that the budget and timeline were a stretch.
