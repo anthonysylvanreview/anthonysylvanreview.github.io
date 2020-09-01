@@ -29,6 +29,12 @@ Here's the budget. "AS" here indicates payment to Anthony Sylvan. All other paym
 | Pool water | $1,755.00 | $142,538.00 |
 | Fence | $5,000.00 | $147,538.00 |
 
+## Not Included
+
+* Pergola, shown on plan
+* Fire pit, shown on plan
+* Landscaping, including stepping stones from driveway shown on plan
+
 ## Payment Schedule
 
 Anthony Sylvan has an aggressive payment schedule - 95% is due before the Gunnite is even poured. This leaves you very little negotiating room, and incentivizes Anthony Sylvan to stack up customers and knock out the first half of the build only. You'll see in [the timeline](./01-timeline.html) that Gunnite was complete within a month of the build starting, leaving another seven months before the pool was swimmable.
